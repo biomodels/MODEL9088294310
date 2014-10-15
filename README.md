@@ -1,3 +1,21 @@
+# MODEL9088294310: AbuSoud1999_NOHArginine
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL9088294310.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL9088294310.git@20140916`
+
+
+# Model Notes
 This model is taken from the <a href = "http://www.ncbi.nlm.nih.gov/entrez/que
 ry.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=10493814&query_hl=1
 0&itool=pubmed_docsum">Abu-Soud HM et al. Biochemistry. 1999 Sep
@@ -31,4 +49,5 @@ Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
 Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
 and annotated resource for published quantitative kinetic models. BMC Syst
 Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
 
